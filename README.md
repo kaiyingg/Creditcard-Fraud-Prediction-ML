@@ -1,7 +1,7 @@
 # Creditcard-Fraud-Prediction-ML
 
 ## Problem Statement
-The problem that i am going to solve is to understand the features and gather insights to identify the fraud transactions.
+The problem which I will be solving is to understand the features and gather insights to identify the fraud transactions.
 
 ## Data scource
 Used data from Kaggle (Machine Learning Group - ULB : https://www.kaggle.com/mlg-ulb/creditcardfraud)
